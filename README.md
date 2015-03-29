@@ -27,7 +27,7 @@ Live bi-directional CSS edit of new generation
 Clock in retro style
 
 * **BeSite / jQuery.dotdotdot**  
-jQuery.dotdotdot, advanced cross-browser ellipsis for multiple line content.
+advanced cross-browser ellipsis for multiple line content.
 
 * **jschr/textillate**  
 A simple plugin for CSS3 text animations
@@ -62,7 +62,7 @@ web-based File Management Component
 Your site in multiple languages in the easiest way. 
 
 * **Freestyle / Testimonials**  
-present customer testimonials on your website in any module position and on an individual page
+customer testimonials in any module position and on an individual page
 
 * **RSSeo**  
 tools that will help you improve the overall SEO score of your Joomla! site
@@ -76,14 +76,39 @@ Place modules anywhere in Joomla!
 * **Images Crawler**  
 continuous horizontal scroller of one or more images from a specified folder
 
-* **ReDJ**
+* **ReDJ**  
  allows to manage URL redirection
 
-* **ScriptsDown**
+* **ScriptsDown**  
 moves Javascript files to the bottom and minifies HTML
 
 
-## deployment
+### deployment
 
 * **git-ftp**  
 Git powered FTP client written as shell script.
+
+
+
+#### Chrome extensions
+
+* **ColorZilla**  
+color picker
+
+* **Quick source viewer**  
+list of website's JS and CSS assets in one click
+
+* **Stylish**  
+attach custom stylesheets to chosen websites
+
+* **YALIG**  
+Lorem Ipsum generator
+
+* **IP Whois & Flags Chrome & Websites Rating**
+adds Whois icon into URL bar
+
+
+
+#### Sublime Text extensions
+
+
