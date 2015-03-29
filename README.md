@@ -46,21 +46,28 @@ A simple plugin for CSS3 text animations
 Checks if a DOM element is truly visible
 
 
-## Joomla CMS
+## Joomla! CMS
 
 * **dj-catalog**  
+product catalogue and e-commerce like features without the complications of shopping cart/payments functionality
 
 * **acymailing**  
+most popular newsletter extension on Joomla!
 
 * **BT / contentslider**  
+slide your articles from Joomla! Content, K2, BT Portfolio or Easyblog component with cool effects
 
 * **eXtplorer**  
+web-based File Management Component
 
 * **Falang**  
+Your site in multiple languages in the easiest way. 
 
 * **Freestyle / Testimonials**  
+present customer testimonials on your website in any module position and on an individual page
 
 * **RSSeo**  
+tools that will help you improve the overall SEO score of your Joomla! site
 
 * **NoNumber / Tabs**  
 Make content tabs in Joomla!
