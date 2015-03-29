@@ -92,8 +92,35 @@ Git powered FTP client written as shell script.
 
 ### Websites, online tools
 
-* **zzzz**  
-zzzz
+* **developer.mozilla.org/en/docs/Web/HTML/Element**  
+HTML reference
+
+* **developer.mozilla.org/en-US/docs/Web/CSS/Reference**  
+CSS reference
+
+* **developer.mozilla.org/en-US/docs/Web/JavaScript/Reference**  
+JS reference
+
+* **caniuse.com**  
+browser compatibility reference
+
+* **coveloping.com/tools**  
+random tools collected in one place
+
+* **projects.jga.me/jquery-builder/**  
+custom jQuery builder
+
+* **regexper.com**  
+Regular expressions demystifier
+
+* **instantsprite.com**  
+CSS sprites generator
+
+* **imagesplitter.net**  
+
+* **sqlfiddle.com**  
+
+* **jsfiddle.net**  
 
 
 
@@ -119,7 +146,7 @@ adds Whois icon into URL bar
 #### Sublime Text extensions
 
 
-* **All Autocomplete**  
+* **AllAutocomplete**  
 
 * **BracketHighlighter**  
 
