@@ -9,6 +9,13 @@ Live bi-directional CSS edit of new generation
 
 
 
+## JS (Vanilla)
+
+* **UseAllFive/true-visibility**  
+Checks if a DOM element is truly visible
+
+
+
 ## JS (jQuery)
 
 * **okfocus / okvideo**  
@@ -34,13 +41,6 @@ A simple plugin for CSS3 text animations
 
 * **SamWM / jquery.numeric.js**  
 Allows only valid characters (i.e. numbers) to be typed into a text box
-
-
-
-## JS (Vanilla)
-
-* **UseAllFive/true-visibility**  
-Checks if a DOM element is truly visible
 
 
 
@@ -81,6 +81,7 @@ continuous horizontal scroller of one or more images from a specified folder
 
 * **ScriptsDown**  
 moves Javascript files to the bottom and minifies HTML
+
 
 
 ### deployment
