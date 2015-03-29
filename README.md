@@ -118,11 +118,7 @@ generates screenshots of how websites appear at various resolutions in six commo
 check ways of decreasing load time of your website
 
 * **google.com/webmasters/tools/mobile-friendly**  
-check if your website is mobile-friendly
-
-
-
-
+check how mobile-friendly is your website
 
 * **coveloping.com/tools**  
 random tools collected in one place
