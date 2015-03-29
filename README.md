@@ -117,7 +117,7 @@ JS and jQuery code comparison
 * **browsershots.org**  
 generates screenshots of how websites appear at various resolutions in six commonly used web browsers
 
-* **developers.google.com/speed/pagespeed/insights/**  
+* **developers.google.com/speed/pagespeed/insights**  
 check ways of decreasing load time of your website
 
 * **google.com/webmasters/tools/mobile-friendly**  
