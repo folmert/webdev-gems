@@ -4,7 +4,6 @@ collection of useful resources
 
 ## CSS
 
-
 * **emmetio / livestyle-sublime**  
 Live bi-directional CSS edit of new generation
 
@@ -24,7 +23,6 @@ Live bi-directional CSS edit of new generation
 * **tylerpearson / lazyYT**  
    A jQuery plugin to lazy load those dang Youtube iframe videos.
 
-
 * **xdan / flipcountdown**  
 Clock in retro style
 
@@ -34,9 +32,8 @@ jQuery.dotdotdot, advanced cross-browser ellipsis for multiple line content.
 * **jschr/textillate**  
 A simple plugin for CSS3 text animations
 
-
-
-
+* **SamWM / jquery.numeric.js**  
+Allows only valid characters (i.e. numbers) to be typed into a text box
 
 
 
@@ -46,7 +43,8 @@ A simple plugin for CSS3 text animations
 Checks if a DOM element is truly visible
 
 
-## Joomla! CMS
+
+## Joomla modules
 
 * **dj-catalog**  
 product catalogue and e-commerce like features without the complications of shopping cart/payments functionality
@@ -75,8 +73,17 @@ Make content tabs in Joomla!
 * **NoNumber / Modules Anywhere**  
 Place modules anywhere in Joomla!
 
+* **Images Crawler**  
+continuous horizontal scroller of one or more images from a specified folder
+
+* **ReDJ**
+ allows to manage URL redirection
+
+* **ScriptsDown**
+moves Javascript files to the bottom and minifies HTML
+
 
 ## deployment
 
-git-ftp / git-ftp
+* **git-ftp**  
 Git powered FTP client written as shell script.
