@@ -7,6 +7,9 @@ collection of useful resources
 * **emmetio / livestyle-sublime**  
 Live bi-directional CSS edit of new generation
 
+* **necolas / normalize.css**  
+customisable CSS file that makes browsers render all elements more consistently and in line with modern standards
+
 
   
 ## JS (Vanilla)
