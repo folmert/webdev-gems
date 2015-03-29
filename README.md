@@ -107,20 +107,26 @@ browser compatibility reference
 * **coveloping.com/tools**  
 random tools collected in one place
 
-* **projects.jga.me/jquery-builder/**  
+* **projects.jga.me/jquery-builder**  
 custom jQuery builder
 
-* **regexper.com**  
-Regular expressions demystifier
-
 * **instantsprite.com**  
-CSS sprites generator
+generates CSS sprites from multiple images
+
+* **cssdrive.com/imagepalette**  
+generates color palette from image
 
 * **imagesplitter.net**  
+easy image converting, resizing, cropping and splitting
+
+* **jsfiddle.net**  
 
 * **sqlfiddle.com**  
 
-* **jsfiddle.net**  
+* **refiddle.com**  
+
+* **regexper.com**  
+regular expressions demystifier
 
 
 
@@ -133,7 +139,7 @@ color picker
 list of website's JS and CSS assets in one click
 
 * **Stylish**  
-attach custom stylesheets to chosen websites
+enables attaching custom stylesheets to chosen websites
 
 * **YALIG**  
 Lorem Ipsum generator
