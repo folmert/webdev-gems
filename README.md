@@ -11,7 +11,7 @@ Live bi-directional CSS edit of new generation
 
 ## JS (Vanilla)
 
-* **UseAllFive/true-visibility**  
+* **UseAllFive / true-visibility**  
 Checks if a DOM element is truly visible
 
 
@@ -36,11 +36,14 @@ Clock in retro style
 * **BeSite / jQuery.dotdotdot**  
 advanced cross-browser ellipsis for multiple line content.
 
-* **jschr/textillate**  
+* **jschr / textillate**  
 A simple plugin for CSS3 text animations
 
 * **SamWM / jquery.numeric.js**  
 Allows only valid characters (i.e. numbers) to be typed into a text box
+
+* **malihu / custom-scrollbar-plugin**  
+Highly customizable custom scrollbar plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
 
 
 
@@ -102,8 +105,24 @@ CSS reference
 * **developer.mozilla.org/en-US/docs/Web/JavaScript/Reference**  
 JS reference
 
-* **caniuse.com**  
-browser compatibility reference
+* **devdocs.io**  
+combines multiple API documentations in a fast, organized, and searchable interface
+
+* **youmightnotneedjquery.com**  
+JS and jQuery code comparison
+
+* **browsershots.org**  
+generates screenshots of how websites appear at various resolutions in six commonly used web browsers
+
+* **developers.google.com/speed/pagespeed/insights/**  
+check ways of decreasing load time of your website
+
+* **google.com/webmasters/tools/mobile-friendly**  
+check if your website is mobile-friendly
+
+
+
+
 
 * **coveloping.com/tools**  
 random tools collected in one place
@@ -120,6 +139,9 @@ generates color palette from image
 * **imagesplitter.net**  
 easy image converting, resizing, cropping and splitting
 
+* **codepen.io**  
+editor for ~~bored~~ creative people
+
 * **jsfiddle.net**  
 
 * **sqlfiddle.com**  
@@ -128,6 +150,19 @@ easy image converting, resizing, cropping and splitting
 
 * **regexper.com**  
 regular expressions demystifier
+
+* **builtwith.com**  
+lists technologies used by chosen website
+
+* **regexper.com**  
+regular expressions demystifier
+
+* **regexper.com**  
+regular expressions demystifier
+
+* **shoptalkshow.com**  
+"sound effects podcast that also covers web development"
+
 
 
 
