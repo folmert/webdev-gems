@@ -90,6 +90,13 @@ Git powered FTP client written as shell script.
 
 
 
+### Websites, online tools
+
+* **zzzz**  
+zzzz
+
+
+
 #### Chrome extensions
 
 * **ColorZilla**  
@@ -104,7 +111,7 @@ attach custom stylesheets to chosen websites
 * **YALIG**  
 Lorem Ipsum generator
 
-* **IP Whois & Flags Chrome & Websites Rating**
+* **IP Whois & Flags Chrome & Websites Rating**  
 adds Whois icon into URL bar
 
 
@@ -112,3 +119,22 @@ adds Whois icon into URL bar
 #### Sublime Text extensions
 
 
+* **All Autocomplete**  
+
+* **BracketHighlighter**  
+
+* **Emmet**  
+
+* **EncodingHelper**  
+
+* **FileBrowser**  
+
+* **JumpAlongIndent**  
+
+* **Keymaps**  
+
+* **RevertAllFiles**  
+
+* **SideBarEnhancements**  
+
+* **STProjectMaker**
