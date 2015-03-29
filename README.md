@@ -150,12 +150,6 @@ regular expressions demystifier
 * **builtwith.com**  
 lists technologies used by chosen website
 
-* **regexper.com**  
-regular expressions demystifier
-
-* **regexper.com**  
-regular expressions demystifier
-
 * **shoptalkshow.com**  
 "sound effects podcast that also covers web development"
 
