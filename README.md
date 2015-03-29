@@ -1,5 +1,5 @@
 # webdev-gems
-collection of useful resources
+collection of useful resources for web developers
 
   
 ## CSS
