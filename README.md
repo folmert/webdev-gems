@@ -1,21 +1,21 @@
 # webdev-gems
 collection of useful resources
 
-
+  
 ## CSS
 
 * **emmetio / livestyle-sublime**  
 Live bi-directional CSS edit of new generation
 
 
-
+  
 ## JS (Vanilla)
 
 * **UseAllFive / true-visibility**  
 Checks if a DOM element is truly visible
 
 
-
+  
 ## JS (jQuery)
 
 * **okfocus / okvideo**  
@@ -46,7 +46,7 @@ Allows only valid characters (i.e. numbers) to be typed into a text box
 Highly customizable custom scrollbar plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
 
 
-
+  
 ## Joomla modules
 
 * **dj-catalog**  
@@ -86,15 +86,15 @@ continuous horizontal scroller of one or more images from a specified folder
 moves Javascript files to the bottom and minifies HTML
 
 
-
-### deployment
+  
+## deployment
 
 * **git-ftp**  
 Git powered FTP client written as shell script.
 
 
-
-### Websites, online tools
+  
+## Websites, online tools
 
 * **developer.mozilla.org/en/docs/Web/HTML/Element**  
 HTML reference
@@ -161,8 +161,8 @@ regular expressions demystifier
 
 
 
-
-#### Chrome extensions
+  
+## Chrome extensions
 
 * **ColorZilla**  
 color picker
@@ -180,8 +180,8 @@ Lorem Ipsum generator
 adds Whois icon into URL bar
 
 
-
-#### Sublime Text extensions
+  
+## Sublime Text extensions
 
 
 * **AllAutocomplete**  
