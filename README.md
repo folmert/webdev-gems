@@ -1,4 +1,4 @@
-# webdev-gems
+# webdev gems
 collection of useful resources for web developers
 
   
