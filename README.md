@@ -48,6 +48,12 @@ Allows only valid characters (i.e. numbers) to be typed into a text box
 * **malihu / custom-scrollbar-plugin**  
 Highly customizable custom scrollbar plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
 
+* **malsup / Jquery Form Plugin**  
+easily and unobtrusively upgrade HTML forms to use AJAX
+
+* **Winston Wolf / cssmap**  
+interactive (clickable) and responsive map of forty-seven countries of the European continent
+
 
   
 ## Joomla modules
@@ -61,8 +67,8 @@ most popular newsletter extension on Joomla!
 * **BT / contentslider**  
 slide your articles from Joomla! Content, K2, BT Portfolio or Easyblog component with cool effects
 
-* **eXtplorer**  
-web-based File Management Component
+* **Phoca Commander**  
+dual-pannel file manager
 
 * **Falang**  
 Your site in multiple languages in the easiest way. 
@@ -78,6 +84,9 @@ Make content tabs in Joomla!
 
 * **NoNumber / Modules Anywhere**  
 Place modules anywhere in Joomla!
+
+* **NoNumber / Snippets**  
+make reusable snippets (pieces of text/content) and include them into your content via a tag, like {snippet id_snippet}
 
 * **Images Crawler**  
 continuous horizontal scroller of one or more images from a specified folder
