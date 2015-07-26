@@ -71,28 +71,28 @@ interactive (clickable) and responsive map of forty-seven countries of the Europ
 
 * **NoNumber**  
 Author of some of the most useful Joomla extensions: 
- Add to Menu
- Advanced Module Manager
- Advanced Template Manager
- Articles Anywhere
- Better Preview
- Cache Cleaner
- CDN for Joomla!
- Components Anywhere
- Content Templater
- DB Replacer
- Dummy Content
- Email Protector
- IP Login
- Modals
- Modules Anywhere
- NoNumber Extension Manager
- ReReplacer
- Sliders
- Snippets
- Sourcerer
- Tabs
- Tooltips
+ Add to Menu,
+ Advanced Module Manager,
+ Advanced Template Manager,
+ Articles Anywhere,
+ Better Preview,
+ Cache Cleaner,
+ CDN for Joomla!,
+ Components Anywhere,
+ Content Templater,
+ DB Replacer,
+ Dummy Content,
+ Email Protector,
+ IP Login,
+ Modals,
+ Modules Anywhere,
+ NoNumber Extension Manager,
+ ReReplacer,
+ Sliders,
+ Snippets,
+ Sourcerer,
+ Tabs,
+ Tooltips,
 [link](http://nonumber.nl)
 
 * **dj-catalog**  
@@ -149,82 +149,80 @@ Automation, performing repetitive tasks like minification, compilation, unit tes
   
 ## Websites, online tools
 
-* **developer.mozilla.org/en/docs/Web/HTML/Element**  
+* **[developer.mozilla.org/en/docs/Web/HTML/Element](http://developer.mozilla.org/en/docs/Web/HTML/Element)**  
 HTML reference
 
-* **developer.mozilla.org/en-US/docs/Web/CSS/Reference**  
+
+* **[developer.mozilla.org/en-US/docs/Web/CSS/Reference](http://developer.mozilla.org/en-US/docs/Web/CSS/Reference)**  
 CSS reference
 
-* **developer.mozilla.org/en-US/docs/Web/JavaScript/Reference**  
+* **[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)**  
 JS reference
 
-* **devdocs.io**  
+* **[devdocs.io](http://devdocs.io)**  
 combines multiple API documentations in a fast, organized, and searchable interface
 
-* **youmightnotneedjquery.com**  
+* **[youmightnotneedjquery.com](http://youmightnotneedjquery.com)**  
 JS and jQuery code comparison
 
-* **browsershots.org**  
+* **[browsershots.org](http://browsershots.org)**  
 generates screenshots of how websites appear at various resolutions in six commonly used web browsers
 
-* **developers.google.com/speed/pagespeed/insights**  
+* **[developers.google.com/speed/pagespeed/insights](http://developers.google.com/speed/pagespeed/insights)**  
 check ways of decreasing load time of your website
 
-* **google.com/webmasters/tools/mobile-friendly**  
+* **[google.com/webmasters/tools/mobile-friendly](http://google.com/webmasters/tools/mobile-friendly)**  
 check how mobile-friendly is your website
 
-* **coveloping.com/tools**  
+* **[coveloping.com/tools](http://coveloping.com/tools)**  
 random tools collected in one place
 
-* **projects.jga.me/jquery-builder**  
+* **[projects.jga.me/jquery-builder](http://projects.jga.me/jquery-builder)**  
 custom jQuery builder
 
-* **instantsprite.com**  
+* **[instantsprite.com](http://instantsprite.com)**  
 generates CSS sprites from multiple images
 
-* **cssdrive.com/imagepalette**  
+* **[cssdrive.com/imagepalette](http://cssdrive.com/imagepalette)**  
 generates color palette from image
 
-* **imagesplitter.net**  
+* **[imagesplitter.net](http://imagesplitter.net)**  
 easy image converting, resizing, cropping and splitting
 
-* **codepen.io**  
+* **[codepen.io](http://codepen.io)**  
 editor for ~~bored~~ creative people
 
-* **jsfiddle.net**  
+* **[jsfiddle.net](http://jsfiddle.net)**  
 
-* **sqlfiddle.com**  
+* **[sqlfiddle.com](http://sqlfiddle.com)**  
 
-* **refiddle.com**  
+* **[refiddle.com](http://refiddle.com)**  
 
-* **regexper.com**  
+* **[regexper.com](http://regexper.com)**  
 regular expressions demystifier
 
-* **builtwith.com**  
+* **[builtwith.com](http://builtwith.com)**  
 lists technologies used by chosen website
 
-* **shoptalkshow.com**  
+* **[shoptalkshow.com](http://shoptalkshow.com)**  
 "sound effects podcast that also covers web development"
 
 
-
+	
   
 ## Chrome extensions
 
-* **ColorZilla**  
-color picker
-
 * **Quick source viewer**  
-list of website's JS and CSS assets in one click
+list of website's JS and CSS assets in one click [link](https://chrome.google.com/webstore/detail/quick-source-viewer/cfmcghennfbpmhemnnfjhkdmnbidpanb)
 
 * **Stylish**  
-enables attaching custom stylesheets to chosen websites
+enables attaching custom stylesheets to chosen websites [link](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
 
 * **YALIG**  
-Lorem Ipsum generator
+Lorem Ipsum generator [link](https://chrome.google.com/webstore/detail/yet-another-lorem-ipsum-g/jffcmkkfbampimhpimhofhhkanhflfce?hl=en)
 
 * **IP Whois & Flags Chrome & Websites Rating**  
-adds Whois icon into URL bar
+adds Whois icon into URL bar [link](https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon?hl=en)
 
 
   
