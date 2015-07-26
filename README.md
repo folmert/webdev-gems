@@ -52,11 +52,11 @@ A simple plugin for CSS3 text animations
 
 * **SamWM / jquery.numeric.js**  
 Allows only valid characters (i.e. numbers) to be typed into a text box
-[link](https://github.com/SamWM/jQuery.numeric.js)
+[link](https://github.com/SamWM/jQuery-Plugins/tree/master/numeric)
 
 * **malihu / custom-scrollbar-plugin**  
 Highly customizable custom scrollbar plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
-[link](https://github.com/malihu/custom-scrollbar-plugin)
+[link](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 
 * **malsup / Jquery Form Plugin**  
 easily and unobtrusively upgrade HTML forms to use AJAX
