@@ -241,6 +241,8 @@ adds Whois icon into URL bar [link](https://chrome.google.com/webstore/detail/ip
 
 * **JumpAlongIndent**  
 
+* **JSHint Gutter**  
+
 * **Keymaps**  
 
 * **RevertAllFiles**  
